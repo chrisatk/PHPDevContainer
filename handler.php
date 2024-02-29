@@ -5,9 +5,8 @@
     <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
     <link rel="stylesheet" href="css/styles.css">
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
-    <title>Welcome Page</title>
+    <title>Page Title</title>
   </head>
-
   <body>
     
     <?php
@@ -19,5 +18,4 @@
     ?>
     
   </body>
-  
 </html>
