@@ -18,7 +18,8 @@
                 "oderwat.indent-rainbow",
                 "PKief.material-icon-theme",
                 "sohamkamani.code-eol",
-                "GitHub.copilot"
+                "GitHub.copilot",
+                "ritwickdey.LiveServer"
             ],
             "settings": {
                 "editor.autoClosingQuotes": "always",
