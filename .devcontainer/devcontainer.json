@@ -10,7 +10,6 @@
             "onAutoForward": "notify"
         }
     },
-    "postCreateCommand": "bash ./.devcontainer/startup.sh",
     "customizations": {
         "vscode": {
             "extensions": [
